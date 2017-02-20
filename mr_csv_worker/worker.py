@@ -4,7 +4,7 @@ import csv
 
 import sys
 
-from error_tracer import print_error
+from mr_csv_worker.error_tracer import print_error
 
 
 class CsvWorker:
